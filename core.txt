@@ -1,2 +1,2 @@
-core 内核//
+oymotion core
 fighting
